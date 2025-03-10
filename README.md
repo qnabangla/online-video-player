@@ -34,8 +34,10 @@ How to Use?
 
 Try It Here:
 
-👉 Visit Online Video Player
+👉 Visit Website: https://OnlineVideoPlayer.net
 
-Contribute
 
-Feel free to contribute to this project! Fork it and submit a pull request.
+
+
+
+
