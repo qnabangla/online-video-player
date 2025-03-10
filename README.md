@@ -1,9 +1,9 @@
 # online-video-player
 Online Video Player From URL – Free tool to play MP4 &amp; MKV videos directly in your browser without downloading.
 
-Online Video Player From URL
+# Online Video Player From URL
 
-Website: OnlineVideoPlayer.net
+Website: https://OnlineVideoPlayer.net
 
 About
 
@@ -11,10 +11,14 @@ Online Video Player From URL is a free tool that allows you to play MP4 and MKV 
 
 Features
 
-✔️ Play MP4 and MKV videos online
-✔️ No downloads required
-✔️ Works on all modern browsers
-✔️ Free and easy to use
+✔️ Play MP4 and MKV videos online.
+
+✔️ No downloads required.
+
+✔️ Works on all modern browsers.
+
+✔️ Free and easy to use.
+
 
 How to Use?
 
