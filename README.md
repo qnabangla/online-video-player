@@ -12,10 +12,12 @@ Online Video Player From URL is a free tool that allows you to play MP4 and MKV 
 # Features
 
 ✔️ Play MP4 and MKV videos online.
-✔️ No downloads required.
-✔️ Works on all modern browsers.
-✔️ Free and easy to use.
 
+✔️ No downloads are required.
+
+✔️ Works on all modern browsers.
+
+✔️ Free and easy to use.
 
 # How to Use?
 
